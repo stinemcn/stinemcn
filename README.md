@@ -1,9 +1,4 @@
-Hi there 👋
-- 🔭 I’m currently studying at Columbia University in the School of International and Public Affairs. 
-- 🌱 I’m currently learning text analysis in python.
-- 🤔 I’m looking for help with social media sentiment analysis (Telegram mostly)
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am running the NYC Marathon this fall!
+C. McNeill is a current graduate student at Columbia University in the School of International and Public Affairs (SIPA). Her research has focused on public policy applications of open-source data collection and analysis, particularly analyzing organized crime and violent extremism online through langauge analysis. 
 
 
 
